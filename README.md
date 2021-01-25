@@ -2,6 +2,7 @@
 
 Xylophone is an iOS app which currently runs on iOS 14. It is a single view application. There are seven buttons which plays sound when tapped. 
 
+## Preview:
 <img src="Hnet-image.gif" width="350" height="650"/>
 
 ## Installation:
